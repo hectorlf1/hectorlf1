@@ -1,5 +1,6 @@
 PORTFOLIO of HECTOR L. FERNANDEZ
 Updated 05/25/2022
+DESCRIPTION: This project displays a portfolio website I did for myself using bootstrap and three exercises I've done for the MERN stack course from MIT XPRO. All of this was accomplished using HTML, CSS, and Javascript. This repository is linked to a Github page, and visitors can find a repository for each exercise in my Github repo directory. 
 -
 -
 -
